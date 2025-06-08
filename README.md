@@ -1,6 +1,6 @@
 # FeedBoard
 
-**FeedBoard** is a clean architecture Android app built with Jetpack Compose and Hilt. It demonstrates dependency injection, state management, and navigation while fetching data from a public API using Retrofit**.
+**FeedBoard** is a clean architecture Android app built with Jetpack Compose and Hilt. It demonstrates dependency injection, state management, and navigation while fetching data from a public API using Retrofit.
 
 ## ✨ Features
 
