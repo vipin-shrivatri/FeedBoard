@@ -20,7 +20,7 @@
 
 ## 📦 API Used
 
-- [https://run.mocky.io//v3]
+- [https://run.mocky.io/v3]
 
 ---
 
