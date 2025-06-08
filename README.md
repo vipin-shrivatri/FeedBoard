@@ -20,7 +20,7 @@
 
 ## 📦 API Used
 
-- [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts)
+- [https://run.mocky.io//v3]
 
 ---
 
